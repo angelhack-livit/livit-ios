@@ -1,7 +1,7 @@
 # livit-ios
 # Livit-ios homepage - also known as *Live it Love it*
 
-![weatherapp prev](https://files.slack.com/files-pri/TBD7GE1C0-FBRTG2ENT/screen_shot_2018-07-15_at_12.46.40_pm.png)
+![livit image](https://i.gyazo.com/405bbfafbd19f85c5aea29373c5059e0.png)
 
 ***So, where do we begin?***
 
